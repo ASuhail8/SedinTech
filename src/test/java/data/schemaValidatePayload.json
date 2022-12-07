@@ -1,0 +1,14 @@
+{
+    "name": "suhail",
+    "age": "31",
+    "list": [
+        {
+            "address": "hal",
+            "city": "bangalore",
+            "country": [
+                "india",
+                "uae"
+            ]
+        }
+    ]
+}
